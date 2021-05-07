@@ -13,6 +13,19 @@ It might also be used to develop ideas and processes how a possible community go
 
 The nature of Github Repos allows us to have a verifiable track of all changes and to make it possible for everyone to contribute to the project by issuing commits and pull request.
 
+
+Currently Maintainers of this Repo:
+
+Ricard Royo - https://github.com/ricardroyo
+
+Basvansambeek - https://github.com/basvansambeek
+
+Phyloiota - https://github.com/Phyloiota
+
+Antonio Nardella - https://github.com/antonionardella
+
+If you want to contibute as a Maintainer please get in touch!
+
 To be totally transparent: This repo is part of the Organisation "IOTA community" https://github.com/iota-community on Github.
 
 The following persons that are owners of that Organisation have also read access to this Repo:
@@ -27,14 +40,3 @@ Huhn511 - https://github.com/huhn511
 
 Luca Moser - https://github.com/luca-moser
 
-Currently Maintainers of this Repo:
-
-Ricard Royo - https://github.com/ricardroyo
-
-Basvansambeek - https://github.com/basvansambeek
-
-Phyloiota - https://github.com/Phyloiota
-
-Antonio Nardella - https://github.com/antonionardella
-
-If you want to contibute as a Maintainer please get in touch!
