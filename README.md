@@ -11,9 +11,11 @@ https://blog.iota.org/iota-community-treasury-and-genesis-validation/
 Goal will be to propose a voting mechanism and votable options to the community what should happen to this Tokens.
 It might also be used to develop ideas and processes how a possible community governed use of those funds can be established, if the community comes to a vote and decides to establish such a system.
 
-To be totally open: This repo is part of the Organisation "IOTA community" https://github.com/iota-community on Github.
+The nature of Github Repos allows us to have a verifiable track of all changes and to make it possible for everyone to contribute to the project by issuing commits and pull request.
 
-The following persons that are owners of that Organisation have also full access to this Repo:
+To be totally transparent: This repo is part of the Organisation "IOTA community" https://github.com/iota-community on Github.
+
+The following persons that are owners of that Organisation have also read access to this Repo:
 
 Antonio Nardella - https://github.com/antonionardella
 
@@ -28,3 +30,7 @@ Luca Moser - https://github.com/luca-moser
 Currently Maintainers of this Repo:
 
 Phyloiota - https://github.com/Phyloiota
+
+Antonio Nardella - https://github.com/antonionardella
+
+Everyone is invited to join this Repo as a Maintainer!
