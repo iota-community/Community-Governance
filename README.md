@@ -35,4 +35,4 @@ Phyloiota - https://github.com/Phyloiota
 
 Antonio Nardella - https://github.com/antonionardella
 
-Everyone is invited to join this Repo as a Maintainer!
+If you want to contibute as a Maintainer please get in touch!
