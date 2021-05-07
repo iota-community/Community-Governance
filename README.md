@@ -29,6 +29,8 @@ Luca Moser - https://github.com/luca-moser
 
 Currently Maintainers of this Repo:
 
+Ricard Royo - https://github.com/ricardroyo
+
 Basvansambeek - https://github.com/basvansambeek
 
 Phyloiota - https://github.com/Phyloiota
