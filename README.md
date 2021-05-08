@@ -35,7 +35,7 @@ The following persons that are owners of that Organisation have also read access
 
 Antonio Nardella - https://github.com/antonionardella
 
-Edward Geve - https://github.com/anyong
+Edward Greve - https://github.com/anyong
 
 Dave De Fijter - https://github.com/fijter
 
