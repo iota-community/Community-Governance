@@ -8,8 +8,8 @@ If you have a topic to discuss please check it it fits under one of the main top
 
 This should not be a place of disputes over the past or the actions that lead to the fork, but of constructive forward thinking working. Critical questioning of everything that happens here is welcome and encouraged, but spam or toxic behaviour will not bring us forward and so should not be a part of this repo here.
 
-Basic and starting point of this proccess is the anouncement made by the IOTA Foundation in this blog - post 
-https://blog.iota.org/iota-community-treasury-and-genesis-validation/ and the clarification blop-post https://blog.iota.org/unclaimed-tokens-community-treasury-and-iota-as-faq/
+Basic and starting point of this proccess is the anouncement made by the IOTA Foundation in this blog-post 
+https://blog.iota.org/iota-community-treasury-and-genesis-validation/ and the clarification blog-post https://blog.iota.org/unclaimed-tokens-community-treasury-and-iota-as-faq/
 
 Goal will be to propose a voting mechanism and votable options to the community what should happen to this Tokens.
 It might also be used to develop ideas and processes how a possible community governed use of those funds can be established, if the community comes to a vote and decides to establish such a system.
