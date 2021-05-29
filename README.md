@@ -8,16 +8,21 @@ It is created as an open place to exchange thoughts, form working groups, explor
 ## Contributing
 
 Main go-to point for everyone that wants to contribute will be the "Discussions" Tab 
+
 https://github.com/iota-community/Community-Governance/discussions 
-- where we did put up some topics to keep the talk a bit more specific in a forum style. So opinions can be better formulated and will stay visible and easily found.
+
+where we did put up some topics to keep the talk a bit more specific in a forum style. So opinions can be better formulated and will stay visible and easily found.
 If you have a topic to discuss please check it it fits under one of the main topics (voting power, voting proposals, ...) and add it as a comment there to avoid the forum spreading out over to many threads.
 
 This should not be a place of disputes over the past or the actions that lead to the fork, but of constructive forward thinking working. Critical questioning of everything that happens here is welcome and encouraged, but spam or toxic behaviour will not bring us forward and so should not be a part of this repo here.
 
 
 Basic and starting point of this proccess is the anouncement made by the IOTA Foundation in this blog-post 
+
 https://blog.iota.org/iota-community-treasury-and-genesis-validation/ 
+
 and the clarification blog-post 
+
 https://blog.iota.org/unclaimed-tokens-community-treasury-and-iota-as-faq/
 
 Goal will be to propose a voting mechanism and votable options to the community what should happen to this Tokens.
