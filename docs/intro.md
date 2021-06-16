@@ -34,7 +34,7 @@ It might also be used to develop ideas and processes how a possible community go
 
 The nature of Github Repos allows us to have a verifiable track of all changes and to make it possible for everyone to contribute to the project by issuing commits and pull request.
 
-Have a look at [CONTRIBUTING](.github/CONTRIBUTING.md).
+Have a look at [CONTRIBUTING](/.github/CONTRIBUTING.md).
 
 <!-- CONTACT -->
 ## Contact
