@@ -3,7 +3,7 @@ module.exports = {
   title: 'IOTA Community Governance',
   tagline: 'DAO and more!',
   url: 'https://github.com/iota-community/Community-Governance',
-  baseUrl: '/',
+  baseUrl: '/Community-Governance/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
