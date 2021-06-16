@@ -1,0 +1,42 @@
+[
+  {
+    "name": "SvenFe",
+    "title": "Developer @ Filancore GmbH",
+    "discord_handle": "Aconitin#1833",
+    "image_url": "https://avatars.githubusercontent.com/u/3297532?v=4",
+    "social_links": [
+      {
+        "type": "github",
+        "link": "https://github.com/Aconitin"
+      },
+      {
+        "type": "twitter",
+        "link": "https://twitter.com/Sven_Fe"
+      },
+      {
+        "type": "discord",
+        "label": "Aconitin#1833"
+      }
+    ]
+  },
+  {
+    "name": "Sebastian H",
+    "title": "Technical Writer @ IOTA Foundation",
+    "discord_handle": "huhn#8105",
+    "image_url": "https://avatars.githubusercontent.com/u/10562055?v=4",
+    "social_links": [
+      {
+        "type": "github",
+        "link": "https://github.com/huhn511"
+      },
+      {
+        "type": "twitter",
+        "link": "https://twitter.com/huhn511"
+      },
+      {
+        "type": "discord",
+        "label": "huhn#8105"
+      }
+    ]
+  }
+]
