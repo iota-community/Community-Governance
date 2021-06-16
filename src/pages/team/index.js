@@ -9,13 +9,13 @@ export default function Team() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`X-Team Members`}
-      description="Description will go into a meta tag in <head />">
+      title={`Governance Team`}
+      description="The IOTA Community Governance Team">
       <main>
         <section className={styles.section}>
           <div className="container">
-            <h1 className="hero__title">X-Team Members</h1>
-            <p className="hero__subtitle">List of all members here...</p>
+            <h1 className="hero__title">Team Members</h1>
+            <p className="hero__subtitle">Do you want to become a member? Please watch <a href="https://github.com/iota-community/Community-Governance/issues/new/choose">here</a>.</p>
             <div className="row">
               {TEAM.map((item, index) => (
                 <TeamMember key={index} {...item} />
