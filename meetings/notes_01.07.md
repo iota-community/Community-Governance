@@ -1,3 +1,4 @@
+<!-- COMMUNITY-GOVERNANCE -->
 ### **Community Governance**
 
 
@@ -6,6 +7,7 @@
 A full recording of the call is available here: [https://www.youtube.com/watch?v=aeovywIT0rY]
 
 
+<!-- COMMUNITY - CALL AGENDA -->
 **Community - call Agenda:**
 
 1. Welcome and Introduction
@@ -17,6 +19,7 @@ A full recording of the call is available here: [https://www.youtube.com/watch?v
 7. Open-end community discussion for all of us to participate and create ideas
 
 
+<!-- DISCUSSED TOPICS -->
 ### **Discussed Topics**
  
  
