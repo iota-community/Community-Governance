@@ -26,6 +26,8 @@ A full recording of the call is available here: [https://www.youtube.com/watch?v
 We talked about the proposed solution to use a plugin in the hornet software to count the votes 
 Proposed function:
 
+https://cdn.discordapp.com/attachments/853248225767063592/860180214713024552/TornTUHD0NgAAAABJRU5ErkJggg.png
+
 
 **During the open Voting Window**
 
