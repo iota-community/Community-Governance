@@ -147,6 +147,7 @@ The community has started to create some first graphical layouts of how this cou
 
 https://drive.google.com/drive/folders/1-7aTuapYyWR7pp3PzIyCvPa_kFDbn9Ko?usp=sharing
 
+![image](https://user-images.githubusercontent.com/77154511/126248484-ea68b1bc-708b-4676-99ba-efbaa65a6d8a.png)
 
 
 ### This is how votes will be counted:
