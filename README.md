@@ -167,6 +167,11 @@ https://drive.google.com/drive/folders/1-7aTuapYyWR7pp3PzIyCvPa_kFDbn9Ko?usp=sha
 
 **General Flow:**
 
+![image](https://user-images.githubusercontent.com/77154511/126248869-b884c77d-1c00-413e-9fe8-601498abe7e5.png)
+
+
+**Detailed Flow with counting:**
+
 ![image](https://user-images.githubusercontent.com/77154511/126058419-cc167490-5543-41b5-a175-3a3d5d57d9d7.png)
 
 
