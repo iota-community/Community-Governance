@@ -225,6 +225,8 @@ Have a look at [CONTRIBUTING](.github/CONTRIBUTING.md).
 
 Currently Maintainers of this Repo:
 
+Adamkundrat - https://github.com/adamkundrat
+
 Ricard Royo - https://github.com/ricardroyo
 
 Basvansambeek - https://github.com/basvansambeek
