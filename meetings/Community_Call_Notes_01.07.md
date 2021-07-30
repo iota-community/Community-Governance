@@ -1,14 +1,14 @@
 <!-- COMMUNITY-GOVERNANCE -->
-### **Community Governance**
+# **Community Governance**
 
 
-**Open Community Call, IOTA Discord 01.07.21**
+## **Open Community Call, IOTA Discord 01.07.21**
 
 A full recording of the call is available here: [https://www.youtube.com/watch?v=aeovywIT0rY]
 
 
 <!-- COMMUNITY - CALL AGENDA -->
-**Community - call Agenda:**
+### **Community - call Agenda:**
 
 1. Welcome and Introduction
 2. The Vote in Firefly - using Muxxers proposed Hornet Voting plugin.
@@ -29,7 +29,7 @@ Proposed function:
 https://cdn.discordapp.com/attachments/853248225767063592/860180214713024552/TornTUHD0NgAAAABJRU5ErkJggg.png
 
 
-**During the open Voting Window**
+#### **During the open Voting Window**
 
 - Plugin observes the ledger for addresses that contain the statement "Burn" or "Build" as an indexation payload
 
@@ -39,7 +39,7 @@ https://cdn.discordapp.com/attachments/853248225767063592/860180214713024552/Tor
 
 
 
-**During the holding period**
+#### **During the holding period**
 
 - A holding period with a predefined length of milestones starts at a certain milestone
 
@@ -55,16 +55,16 @@ https://cdn.discordapp.com/attachments/853248225767063592/860180214713024552/Tor
 
 - Final result will be a calculated voting balance of tokens that hold the voting statement as payload in relation to the time they have been tracked on unchanged addresses.
 
-**Key takeaways:** 
+#### **Key takeaways:** 
 
 - Participants of the meetings were very happy and excited about these possible solutions and it is widely welcomed and accepted by the group.
 
-**Problems to solve:** 
+#### **Problems to solve:** 
 
 - Finding developers with the skills and experience to build this. Muxxer is busy the next weeks but suggested some community devs. We will get in contact with them and see if they can support us. As also other tasks are not solved yet, the community hopes that in a couple of weeks the community devs can find some free time to start building this solution for the community.
 
 
-**Next Agenda topic: Holding period**
+#### **Next Agenda topic: Holding period**
 
 - Has been a problematic topic before as it seemed that interrupting a holding period could lead to a total invalidation of the vote. But with the proposed solution described above a very elegant and flexible approach is possible that gives every user the freedom to access the tokens at any point in time during the holding period. The advantage here is, that the vote will count until the tokens are moved away from the address. This is a very welcomed feature of the proposed voting and counting system. 
 
@@ -72,12 +72,12 @@ https://cdn.discordapp.com/attachments/853248225767063592/860180214713024552/Tor
 support in the group
 
 
-**Next point: minimum participation**
+#### **Next point: minimum participation**
 
 We discussed several thoughts about that and came to an agreement that we will not require any minimum participation of tokens to declare the voting validly as long as no failure in the counting mechanism can be observed. So every amount of counted valid votes will lead to a decision and will be accepted by the community.
 
 
-**Next point: simple majority**
+#### **Next point: simple majority**
 
 The group agreed to accept a simple majority of valid votes as a ruling decision in the vote - so 50% + 1 IOTA is needed for a winning decision
 
@@ -94,6 +94,6 @@ We will start gathering in small Teams of interested members to find some more f
 **We want to highlight that the above-discussed topics are all open to discussions for every community member that wants to engage or raise concerns or disagreements about it. We would hope for positive feedback and input from the community on all the above-discussed topics. All meetings and calls will happen in the public channels and members are invited and welcome to join and raise their voices during the sessions. All code and technical solutions used in the IOTA voting system will always be fully open-sourced and published on GitHub **
 
 
-**The next community call in the Discord is planned for Thursday 15.07. - at 2 pm GMT**
+#### **The next community call in the Discord is planned for Thursday 15.07. - at 2 pm GMT**
 
 by Phylo#2233
