@@ -65,8 +65,8 @@ A Large number of community members have taken part in those discussions and cal
 ### **General Vote Info for the first vote**
 
 The community will have 2 clear defined options of what should happen to the tokens and these two options will be the votable options in the first vote:
-- [ ] **BURN:** The tokens will stay removed from the IOTA network and can never be created or used again in the IOTA DLT.
 - [ ] **Build:** The Tokens will be made available and handled over into the control of a system that is governed by the IOTA community to support and fund projects and developments in the IOTA Ecosystem
+- [ ] **Burn:** The tokens will stay removed from the IOTA network and can never be created or used again in the IOTA DLT.
 
 The above-stated vote should happen as soon as possible, but not before IOTA Ledger integration is available and Major Exchanges like Binance have opened Withdrawals for IOTA again
 
