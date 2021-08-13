@@ -17,6 +17,10 @@
 1. Core Team that develops the Firefly voting plugin
 1. Open end community discussion for all of us to participate and create ideas
 
+**Here is a link to the recording of the call:**
+
+https://youtu.be/P1sw7SMeTu4
+
 
 
 
