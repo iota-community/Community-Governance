@@ -134,16 +134,13 @@ This timeframe has not yet been finally decided, but the agreement is that it sh
 
 ### This is how a user can change a vote:
 
-- [ ] * **During commencing time:** open the voting menu and initiate a new vote as described above. The old vote will be removed and the new one initiated
-* 
-* 
-- [ ] * **During the holding period:** Initiating a normal transaction with tokens that are currently used to vote will remove the Indexation Data payload together with the tokens from the UTXO. The voting plugin will recognize this change with the next milestone and stop accumulating the votes for this address.
-* 
-* 
-- [ ] * **During the holding period:** Users can always add tokens into the vote that are not currently used by initiating the voting process for those addresses. The tokens will then be counted from the next milestone on and so will reach also a percentage of the full weight (starting on day 7 of 10 will create only 30% total voting power for those tokens)
+- [ ]  **During commencing time:** open the voting menu and initiate a new vote as described above. The old vote will be removed and the new one initiated
 
+- [ ]  **During the holding period:** Initiating a normal transaction with tokens that are currently used to vote will remove the Indexation Data payload together with the tokens from the UTXO. The voting plugin will recognize this change with the next milestone and stop accumulating the votes for this address.
 
-- [ ] * **Changing the opinion:** A user can also change the Opinion of the vote during the holding period. Therefore the process can be initiated to “change opinion” and the tokens will be sent again, but now with the opposite Data payload. From the next milestone on, the tokens will accumulate weight for the new opinion, but the opinion weight that has been accumulated until the change has happened will still count for the which result. So if a user would change the opinion exactly at “halftime” of the vote with an unchanged token amount, both opinions would accumulate exactly 50% weight and therefore result in an effective 0 vote count at the end of the holding time.
+- [ ]  **During the holding period:** Users can always add tokens into the vote that are not currently used by initiating the voting process for those addresses. The tokens will then be counted from the next milestone on and so will reach also a percentage of the full weight (starting on day 7 of 10 will create only 30% total voting power for those tokens)
+
+- [ ]  **Changing the opinion:** A user can also change the Opinion of the vote during the holding period. Therefore the process can be initiated to “change opinion” and the tokens will be sent again, but now with the opposite Data payload. From the next milestone on, the tokens will accumulate weight for the new opinion, but the opinion weight that has been accumulated until the change has happened will still count for the which result. So if a user would change the opinion exactly at “halftime” of the vote with an unchanged token amount, both opinions would accumulate exactly 50% weight and therefore result in an effective 0 vote count at the end of the holding time.
 
 
 The community has started to create some first graphical layouts of how this could look in Firefly and the designs can be found here:
@@ -152,6 +149,23 @@ https://drive.google.com/drive/folders/1-7aTuapYyWR7pp3PzIyCvPa_kFDbn9Ko?usp=sha
 
 ![image](https://user-images.githubusercontent.com/77154511/126248484-ea68b1bc-708b-4676-99ba-efbaa65a6d8a.png)
 
+The IF Design Division has also created further refined ideas regarding the User experience, some ides are here:
+
+![Dashboard-1 Acc](https://user-images.githubusercontent.com/77154511/129312921-ac2006ab-31a0-47fc-8261-a8c558de2245.png)
+![Dashboard-1 Acc (1)](https://user-images.githubusercontent.com/77154511/129312946-f27015cd-6027-4f7a-8e67-17986ff51fd2.png)
+![Dashboard-1 Acc (2)](https://user-images.githubusercontent.com/77154511/129312972-f1cf2008-acf8-4430-ab9c-9076a075c67b.png)
+
+### Using Github to create, discuss, approve and publish proposals
+
+We envision IOTA’s Community Governance Github repository to be utilized for proposal management. This will serve as a staging area for proposals prior to their final submission to the community nodes and Firefly.
+
+Github is considered a trustworthy source and provides a very secure environment for proposals at this stage.
+
+This method should be sufficient for our initial rollout as we await the release of ISCP.
+
+The benefits of this approach are that it provides enough transparency into the process and allows everyone to participate.
+
+![image](https://user-images.githubusercontent.com/77154511/129310596-0df138ce-e650-4662-9851-0c84d958c727.png)
 
 ### This is how votes will be counted:
 
@@ -181,6 +195,11 @@ https://drive.google.com/drive/folders/1-7aTuapYyWR7pp3PzIyCvPa_kFDbn9Ko?usp=sha
 **Special cases:**
 
 ![image](https://user-images.githubusercontent.com/77154511/126058430-05fe328e-6c48-4f88-bc6f-b9c37a1f58d1.png)
+
+
+### **Core development Team**
+
+We will form a Project Team of members that dedicate full time / part time to start building the needed software and bring the project forward. Some community developers have applied to take this task, and we are open to more contributors.
 
 
 ---
@@ -229,12 +248,6 @@ Have a look at [CONTRIBUTING](.github/CONTRIBUTING.md).
 Currently Maintainers of this Repo:
 
 Adamkundrat - https://github.com/adamkundrat
-
-Ricard Royo - https://github.com/ricardroyo
-
-Basvansambeek - https://github.com/basvansambeek
-
-Sascha1337 - https://github.com/sascha1337
 
 WernerDerChamp - https://github.com/WernerderChamp
 
