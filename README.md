@@ -85,8 +85,7 @@ The above-stated vote should happen as soon as possible, but not before IOTA Led
 
 - [ ]  **The vote will be made available in the Firefly Wallet** for users, in a system developed by the community with technical support and backing of the IF
 
-- [ ]  **Counting will be done in a Hornet node plugin**. Node owners will be able to implement this plugin and validate the voting process.
-- [ ]  
+- [ ]  **Counting will be done in a Hornet node plugin**. Node owners will be able to implement this plugin and validate the voting process. 
 
 <!-- Treasury Website -->
 ## Treasury Website
@@ -94,7 +93,7 @@ The above-stated vote should happen as soon as possible, but not before IOTA Led
 The participating community members have decided to build a Website as o single point of information for voters. This Website will show all relevant informations about the vote, will display totorials and guides how to vote and will display the full Referendum.
 The Website is currently under construction.
  
-The domain choosen by the community members is: [IOTATreasury.org](https:iotatreasury.org)
+The domain choosen by the community members is: [IOTATreasury.org](https://iotatreasury.org)
 
 Contributions regarding Design and Branding are requested and welcome! Get in contact in the IOTA Discord in the #governance-dsicussion channel please.
 
@@ -139,7 +138,7 @@ This timeframe has not yet been finally decided, but the agreement is that it sh
 
 -  [ ] With this system, the user is always in control of the funds. All IOTA Tokens will stay in the wallet of the user and are not moved out of the control of the owner. If the owner can hold the tokens over the defined timeframe on the addresses, the vote weight counts full. If the owner decides to move the tokens earlier they will not count full, but the time the tokens have been used to vote will be taken as a percentage of the full voting power (7 days holding of 10 days total holding period will count 70%)
 
-Detailed current specification (still workk in progress) to find here:
+Detailed current specification (still work in progress) to find here:
 
 https://github.com/iota-community/treasury/blob/main/specifications/chrysalis-referendum-rfc.md
 
