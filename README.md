@@ -40,7 +40,7 @@ https://github.com/iota-community/treasury
 
 - [ ] **IOTA Discord Channels:**
 We created three channels where daily ongoing discussions about the topics are happening. This is the current main place to get involved and participate. Please use the invite 
-https://dicord.iota.org and join the channels. 
+https://discord.iota.org and join the channels. 
 * **#governance-discussion**
 * **#voting-tech**
 * **#governance-vission**
@@ -83,7 +83,7 @@ The above-stated vote should happen as soon as possible, but not before IOTA Led
 
 - [ ]  **Should the outcome of the vote be a draw**, the community will set up a second vote with the same conditions as the first one
 
-- [ ] **All information regarding the vote and the possibility to initiate a vote will be available on the community-owned Treasury Website [IOTA Treasury](https://iotatreasury.org)
+- [ ] **All information regarding the vote and the possibility to initiate a vote will be available on the community-owned Treasury Website [IOTA Treasury](https://iotatreasury.org) (under construction)
 
 - [ ]  **The vote will happen in the Firefly Wallet**,  in a system developed by the community with technical support and backing of the IF
 
@@ -95,9 +95,13 @@ The above-stated vote should happen as soon as possible, but not before IOTA Led
 The participating community members have decided to build a Website as o single point of information for voters. This Website will show all relevant information about the vote, display tutorials and guides on voting, and display the relevant Referendum Data.
 The Website is currently under construction.
  
-The domain chosen by the community members is: [IOTATreasury.org](https://iotatreasury.org)
+The domain chosen by the community members is: [IOTATreasury.org](https://iotatreasury.org) (under construction)
 
 Community designers have created a beautiful design and branding for the Website:
+
+<img width="840" alt="Screenshot 2021-09-10 222626" src="https://user-images.githubusercontent.com/77154511/132869518-e3354664-0b6e-4ddc-a09d-c2c3d7c3eb30.png">
+<img width="658" alt="Screenshot 2021-09-10 222600" src="https://user-images.githubusercontent.com/77154511/132869584-16548d53-686a-4bbb-9242-e2996add3bfe.png">
+
 
 
 <!-- THE VOTING MECHANISM -->
