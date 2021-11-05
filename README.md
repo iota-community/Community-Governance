@@ -81,7 +81,7 @@ IOTA holders will receive an updated version of the Firefly wallet with integrat
 You can only participate if you hold IOTA tokens in the Firefly wallet.
 
 
-- [ ] **The number of votes is related to the balance of tokens held by the user. One IOTA token = one vote per milestone that passes during the defined holding period.** To gain the maximum weight, voters must keep the tokens on an address for a defined time (number of milestones). Only holding it on that address for the full defined voting time builds 100% voting weight.
+- [ ] **The number of votes is related to the balance of tokens held by the user. 1000 IOTA token = one vote per milestone that passes during the defined holding period.** To gain the maximum weight, voters must keep the tokens on an address for a defined time (number of milestones). Only holding it on that address for the full defined voting time builds 100% voting weight.
 
 - [ ]  **100% of all valid votes** is defined as the amount of IOTA tokens successfully migrated into the chrysalis network at the milestone when the vote-counting period ends.**
 
@@ -108,10 +108,7 @@ The Website is currently under construction.
  
 The domain chosen by the community members is: [IOTATreasury.org](https://iotatreasury.org) (under construction)
 
-Community designers have created a beautiful design and branding for the Website:
-
-<img width="840" alt="Screenshot 2021-09-10 222626" src="https://user-images.githubusercontent.com/77154511/132869518-e3354664-0b6e-4ddc-a09d-c2c3d7c3eb30.png">
-<img width="658" alt="Screenshot 2021-09-10 222600" src="https://user-images.githubusercontent.com/77154511/132869584-16548d53-686a-4bbb-9242-e2996add3bfe.png">
+The design undergoes some changes currently to create a more consistent visual approach for the voters and to make the information better accesible to the voter.
 
 
 
@@ -121,7 +118,7 @@ Community designers have created a beautiful design and branding for the Website
 IOTA holders will receive an updated version of the Firefly wallet with integrated voting functionality.
 You can only participate if you hold IOTA tokens in the Firefly wallet.
 
-The voting weight will be related to the number of IOTA tokens allocated by a user to the vote, and the time those votes are held on addresses. One IOTA token = one vote per passed milestone. To gain the maximum weight, voters must keep the tokens on an address for a defined period (equal to the number of milestones). Holding the tokens on the address for the full defined voting time is the only way to build 100% voting weight.
+The voting weight will be related to the number of IOTA tokens allocated by a user to the vote, and the time those votes are held on addresses. 1000 IOTA token = one vote per passed milestone. To gain the maximum weight, voters must keep the tokens on an address for a defined period (equal to the number of milestones). Holding the tokens on the address for the full defined voting time is the only way to build 100% voting weight.
 
 
 ### **The Vote will be separated into different phases**
@@ -144,14 +141,13 @@ The software to count the votes will be implemented in the Hornet nodes: every n
 
 ### This is how a user will cast a valid vote:
  
- - [ ] You will be able to connect from the treasury website’s voting application to your Firefly wallet. You will prepare your vote in the voting application, where you can state your opinion and decide which wallet and token balance should participate in the vote. You can click/unclick all wallets in the profile. If you only want to use some of your tokens, it is recommended to collect them in a separate wallet in your profile. If you confirm your decision, a deep link functionality will be executed, and your Firefly wallet will open. 
- 
+ - [ ] You will be able to cast the vote directly within the Firefly wallet, or you will be able to connect from the treasury website’s voting application to your Firefly wallet. You will prepare your vote in Firefly directly or partially in the voting application, where you can state your opinion and decide which wallet and token balance should participate in the vote. You can click/unclick all wallets in the profile. If you only want to use some of your tokens, it is recommended to collect them in a separate wallet in your Firefly profile. You will confirm you decision with your Stronghold password or your Ledger Nano.
+
  - [ ] The user will be able to decide which amount of Votes (derived from token balance) should be used in the vote (the user can click/unclick all Wallets of the profile). Users can create Wallets with the number of tokens they aim to use as votes and could use this as a voting wallet
  
  - [ ] After the amount of Votes is chosen, the user must now decide for which option the vote should count - Burn or Build
  
- - [ ] After logging in to your profile, you will only need to confirm the pre-prepared voting transaction with your Stronghold password or Nano Ledger. All relevant settings for the vote execution have been prepared from the voting application on this website. Please note: if you have several profiles, you will need to vote for every profile separately. After the first profile has executed the vote in Firefly, return to the voting application here on the website and start the process again using the next profile.
-The website itself will have no direct access to the Firefly wallet’s security functions. To access Firefly, deep links are used. Deep links are tools that create the exact transaction logic and transfer this information to Firefly using a predefined link format.
+ - [ ] The Treasury website will offer the opportunity to decide between Build or Burn and transport this decision to your Firefly Wallet. To access Firefly, deep links are used. Deep links are tools that create the exact transaction logic and transfer this information to Firefly using a predefined link format.
 
 **Firefly initiates the following logic upon receiving the deep link and your confirmation via your Stronghold password or Ledger Nano device:** 
 
@@ -167,13 +163,13 @@ https://github.com/iota-community/treasury/blob/main/specifications/chrysalis-re
 
 ### This is how a user can change a vote:
 
-- [ ]  **During commencing period:** Open the voting application on the website and initiate a new vote as described above. The old vote will be removed, and the new one initiated.
+- [ ]  **During commencing period:** Open the voting application in Firefly or on the website and initiate a new vote as described above. The old vote will be removed, and the new one initiated.
 
-- [ ]  **During the holding period:** Open the voting application on the website and initiate a new vote as described above. The old vote will be removed, and the new one created.
+- [ ]  **During the holding period:** Open the voting application in Firefly or on the website and initiate a new vote as described above. The old vote will be removed, and the new one created.
 You can always add unused tokens into the vote by initiating the voting process for those wallets.
 The tokens will then be counted from the next milestone on and will also reach a percentage of the total weight (starting on day seven out of a total 10 days will generate 30% real voting power for those tokens)
 
-- [ ]  **Changing the opinion:** You can also change the opinion of the vote anytime. In which case,  the tokens will be sent again. Open the voting application on the website and initiate a new vote but now with the opposite opinion in the data payload. From the next milestone on, the votes will accumulate weight for the new opinion. Be aware that the opinion weight that has been collected until the change has happened will still count for the first opinion. So if you changed your opinion exactly at the vote’s “halftime” with an unchanged token amount, both opinions accumulate exactly 50% total weight.
+- [ ]  **Changing the opinion:** You can also change the opinion of the vote anytime. In which case, the tokens will be sent again. Open the voting application in Firefly or on the website and initiate a new vote but now with the opposite opinion in the data payload. From the next milestone on, the votes will accumulate weight for the new opinion. Be aware that the opinion weight that has been collected until the change has happened will still count for the first opinion. So if you changed your opinion exactly at the vote’s “halftime” with an unchanged token amount, both opinions accumulate exactly 50% total weight.
 
 
 ### Using Github to create, discuss, approve and publish proposals
@@ -185,6 +181,15 @@ Github is considered a trustworthy source and provides a very secure environment
 This method should be sufficient for our initial rollout as we await the release of ISCP.
 
 The benefits of this approach are that it provides enough transparency into the process and allows everyone to participate.
+
+Currently the community has to decide on a group of persons that will need to be established as approvers of this proposal in the Github repo to merge the voting file into the main branch.
+Applications for candidates can be made here:
+
+https://github.com/iota-community/Community-Governance/discussions/52
+
+The amount of persons neede to approve the proposed file is also up for vote here:
+
+https://discord.com/channels/397872799483428865/903229208824778793/906029145241288726
 
 ![Github proposal](https://user-images.githubusercontent.com/77154511/131207054-a6d488f1-ccce-46c2-8e2c-dd7c8576f404.png)
 
