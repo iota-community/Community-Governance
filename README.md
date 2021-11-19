@@ -182,16 +182,40 @@ This method should be sufficient for our initial rollout as we await the release
 
 The benefits of this approach are that it provides enough transparency into the process and allows everyone to participate.
 
-Currently the community has to decide on a group of persons that will need to be established as approvers of this proposal in the Github repo to merge the voting file into the main branch.
-Applications for candidates can be made here:
-
+- The proposal for the first vote will need to follow a predefined form (based on RFC by Walter, adjusted by Alex). The texts that users will see in the Firefly wallet for Vote questions and possible answers are defined in this so-called "event file".
+- The hornet node operators, the IOTA Firefly Nodes, and the Treasury Website will use this file to display the vote information and count the votes. To ensure that only the correct data is included in this file, it will need to be proposed in the community treasury Github Repository as a pull request, checked by a set of approvers, and merged into the Main branch of the Repo.
+This check, approval, and merging is a crucial security part of the vote. The community needs to decide which persons to ask to take these checks and approve the proposal.
+- Following the last community call on 04/11/21, a discussion thread has been created to nominate candidates:
 https://github.com/iota-community/Community-Governance/discussions/52
+- The nomination has ended at 18/11/21 at 12:00 CET
+- Results:
 
-The amount of persons neede to approve the proposed file is also up for vote here:
+![image](https://user-images.githubusercontent.com/77154511/142581311-1d2b4d3d-428a-425f-bacf-57f3e77efa27.png)
 
-https://discord.com/channels/397872799483428865/903229208824778793/906029145241288726
+- Also, a poll was created to decide on the numbers of approvers
 
-![Github proposal](https://user-images.githubusercontent.com/77154511/131207054-a6d488f1-ccce-46c2-8e2c-dd7c8576f404.png)
+![image](https://user-images.githubusercontent.com/77154511/142581194-46320cbf-79af-413b-9928-b8292808ccdd.png)
+
+According to this, the following decision has been taken by the participants of the meeting:
+- In total, 13 members will be enabled as approvers.
+The voting file merge is possible if 10 of those 13 members approve the file as correct.
+The call participants have decided to elect the members according to the received number of upvotes in the nomination process.
+
+### Elected members:
+
+1. Linus Nauman
+1. Sissors
+1. Dr. Electron
+1. Dave [EF]
+1. Adamski
+1. Merul
+1. Edur
+1. pmaxuw (microhash)
+1. Gman214
+1. MuXXer
+1. mathieu (Chris Alice)
+1. Vrom
+1. Alex Sporn
 
 
 ### This is how votes will be counted:
@@ -207,6 +231,14 @@ https://discord.com/channels/397872799483428865/903229208824778793/9060291452412
 - [ ] **As a new milestone is issued every 10 seconds**: this gives a highly precise counting as every change in opinions or balances will be recognized in a 10-second time frame.
 
 - [ ] **After the defined “holding end – milestone”**, the plugin produces an output with all observed UTXOs, balances, indexation payloads per milestone, and the final result as an accumulation of that milestone data.
+
+### Hornet voting plugin is ready. Community voting tests in Commnet can start
+
+- The Hornet plugin to count votes is ready and available in the develop branch of the Hornet repository:
+https://github.com/gohornet/hornet/tree/develop/plugins/participation
+- The community Node operators are planning tests in Commnet for the coming days.
+- A CLI Wallet is available to create the vote transactions in the Commnet
+- If you wish to participate, connect to the Commnet operators in the #commnet channel in Discord.
 
 
 ### This is a flow diagram of the process:
