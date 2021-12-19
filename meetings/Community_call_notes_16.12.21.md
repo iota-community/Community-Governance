@@ -26,7 +26,7 @@ Firefly design / vote UI/UX discussions
 
 Possible UI - layouts could be displaying such information for example:
 
-<img width="696" alt="Screenshot 2021-12-19 121125" src="https://user-images.githubusercontent.com/77154511/146663608-bd12b680-ecca-4610-a7f1-2c7ac037b7fd.png">
+<img width="703" alt="image" src="https://user-images.githubusercontent.com/77154511/146664748-a9be54bb-81f7-4463-985d-014b173a3d85.png">
 
 <img width="691" alt="Screenshot 2021-12-19 121256" src="https://user-images.githubusercontent.com/77154511/146663613-ed9110c8-7a25-4342-a3e6-459195fce658.png">
 
