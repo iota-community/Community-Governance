@@ -55,9 +55,9 @@ It contains technical ideas, proposals for possible voting and Treasury solution
 The community has established bi-weekly live chat meetings to discuss ideas and ongoing developments in the project.
 Meetings take place every second Thursday in the IOTA Discord #General-voice channel.
 
-Find the meeting notes here:
+This is the collection of the [meeting notes.](https://github.com/iota-community/Community-Governance/tree/main/meetings)
 
-https://github.com/iota-community/Community-Governance/tree/main/meetings
+In this [YouTube playlist](https://youtube.com/playlist?list=PL5joP0FyJQU4eKPWfQWradNVjMIPq86ID) you can watch recordings of most of the meetings.
 
 Many community members have taken part in these online discussions and group calls, and important decisions have been made in approaching the first vote.
 
