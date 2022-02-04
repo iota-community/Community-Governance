@@ -24,6 +24,9 @@ The [recording](https://youtu.be/_lM0qA5rb_Y) of this meeting can be found in th
 It is crucial to clarify that non of those tokens have ever been under the control of the IOTA Foundation.
 They also don't originate from any events where a "bug" happened. 
 
+<img width="741" alt="image" src="https://user-images.githubusercontent.com/77154511/152473708-20e3e979-cd12-4f8d-bd97-5075ae1263ff.png">
+
+
 ### 3. **The Firefly voting layout**
 
 We showcased the current design and UI/UX flow for the vote.
