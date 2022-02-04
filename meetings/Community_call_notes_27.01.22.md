@@ -2,7 +2,7 @@
 # **Community Governance**
 
 
-## **Open Community Call, IOTA Discord 27.01.2022
+## **Open Community Call, IOTA Discord 27.01.2022**
 
 <!-- COMMUNITY - CALL AGENDA -->
 ## **Community - call Agenda:**
@@ -36,6 +36,10 @@ The website's backend is built by the Soonlabs Team for the community and will h
 ### 4. The Firefly voting layout
 
 We showcased the current design and UI/UX flow for the vote.
+
+### 5. Increasing meeting frequency as we are getting close to the vote
+
+From now on we will meet weekly - same time, same place
 
 ### **Open end community discussions**
 
