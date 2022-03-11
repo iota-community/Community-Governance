@@ -61,7 +61,7 @@ Another group of community members thinks about making a certain amount of funds
 **The involved community members want to highlight that the above-discussed topics are all open to discussions for every community member that wants to engage or raise concerns or disagreements about it. The community's positive feedback and input on all the above-discussed topics are welcome. All meetings and calls will happen in the public channels, and members are invited and welcome to join and raise their voices during the sessions. All code and technical solutions used in the Community voting system will always be fully open-sourced and published on GitHub**
 
 
-#### **The next community call in the Discord is planned for Thursday, 03.03.22 at 2 pm UTC**
+#### **The next community call in the Discord is planned for Thursday, 17.03.22 at 2 pm UTC**
 
 by Phylo#2233 for the community
 
