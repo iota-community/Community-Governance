@@ -81,7 +81,7 @@ IOTA holders will receive an updated version of the Firefly wallet with integrat
 You can only participate if you hold IOTA tokens in the Firefly wallet.
 
 
-- [ ] **The number of votes is related to the balance of tokens held by the user: 1000 IOTA tokens (0,01 Mi) produce one counted vote every 10 seconds during the counting period.** To reach the maximum vote count, a voter must keep the tokens voting for a defined time of 10 days. Voting for less than ten days will result in fewer votes counted for a voter.
+- [ ] **The number of votes is related to the balance of tokens held by the user: 1000 IOTA tokens (0,001 Mi) produce one counted vote every 10 seconds during the counting period.** To reach the maximum vote count, a voter must keep the tokens voting for a defined time of 10 days. Voting for less than ten days will result in fewer votes counted for a voter.
 
 - [ ]  **100% of all valid votes** is defined as the amount of IOTA tokens successfully migrated into the chrysalis network at the milestone when the counting period ends.**
 
@@ -124,7 +124,7 @@ The number of your votes is directly related to the number of tokens you commit 
 - **Pre-vote (seven days)** The pre-vote phase starts at a predefined point in time (a milestone) in the IOTA network. Users can now vote using the Firefly wallets voting functionality. Changes in voters’ opinions during this time frame can be done without influencing the final vote count of the voter. Voters are required to initiate the vote during these seven days to gain their maximum possible votes counted.
 - **Counting** This period follows the pre-vote phase: the declared vote of a user is now counted. The number of counted votes will increase with every passing milestone (one milestone is issued every 10 seconds) in the network. If a voter did issue the vote during the pre-vote phase, the vote would reach the maximum possible counted votes related to the number of tokens used by the voter. If a voter attempts changing the selected vote option in this timeframe, the counting for the new option starts with the confirmation of the change in Firefly. Although the option has changed and new votes are now counted for a different option, the previously counted votes for the first option are not dismissed and count as valid votes.
 
-The number of your votes is directly related to the number of tokens you commit during the counting time frame of ten days. Every 1000 IOTA tokens (0,01 Miota) used to vote will create 1 vote every 10 seconds. The sum of all those votes counted over ten days will be your total votes in this decision.
+The number of your votes is directly related to the number of tokens you commit during the counting time frame of ten days. Every 1000 IOTA tokens (0,001 Miota) used to vote will create 1 vote every 10 seconds. The sum of all those votes counted over ten days will be your total votes in this decision.
 
 ### This is how a user will cast a valid vote:
  
