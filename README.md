@@ -7,9 +7,37 @@
 <!-- IOTA Treasury Governance Info Thread -->
 # IOTA Treasury Governance Info Thread
 
-The involved community members hope to give the community in this thread the most recent updates and info on how the IOTA community approaches and develops the upcoming vote for or against a community-controlled governance structure.
-And we also hope to inform a broader part of the community about the ongoing discussion and actions and invite everyone to participate and get actively involved in this important topic.
+**Latest updates 24.06.2022**
 
+The vote to establish a community treasury has been finaly concucted. Counting of votes started on 03.06.2022 and lasted til 13.06.2022.
+
+The outcome and Final results are the following:
+
+Votes for BUILD: 	   `30.820.033.631.800.548`
+
+Votes for BURN: 	    `6.414.706.069.859.334`
+
+Total amount of votes: `37.234.739.701.659.800`
+
+This translates to 82,77% BUILD and 17,23% BURN votes.
+
+The results have been verified by community node operators, documented here: https://github.com/iotaledger/participation-events/pull/6
+
+Read the following blog-post for more detals: [Treasury vote results](https://blog.iota.org/community-treasury-vote-final-results/)
+
+Herby it is confirmed that the IOTA community has voted to BUILD a community treasury. 
+
+Community members are invited to take part in the proccess of establishing this treasury by participating in the discussions in the IOTA Discord. Dedicated channels like #governance-discussion are setup to do this. A Treasury working group is currently involved in core work around the treasury. 
+- Community Governance meeting: **Every Thursday at 3pm CEST**
+- Treasury working group meeting: **Every Wednesday at 4pm CEST**
+
+-  Notes from the meetings can be found here: https://github.com/iota-community/Community-Governance/tree/main/meetings
+-  Recordings of the meetings can be found here: https://youtube.com/playlist?list=PL5joP0FyJQU4eKPWfQWradNVjMIPq86ID
+
+
+
+
+Below described is the history that lead to the vote. It will stay in this readme to keep the proccess documented.
 
 <!-- GENERAL INFORMATION AND HISTORY OF THE TOKENS -->
 ## General Information and history of the Tokens:
