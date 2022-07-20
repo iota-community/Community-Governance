@@ -1,0 +1,45 @@
+# ****Treasury DAO Meeting 20/07/2022****
+
+
+
+* Last week meeting w Dr. Biyan Mienert -> would be able to support the IOTA community to set up a legal entity for a treasury DAO
+    * Many legal wrapper options out there that fill different purposes:
+        * Cayman Island foundation is a commonly used one.
+            * Offshore often seen as “tax fleeing”
+            * Quite expensive setup and running
+            * Often needs a local representative in charge of the operation of the DAO. Requires trust and represents a centralization point. May not be aligned with the goals of the community
+        * British Virgin islands
+            * More corporate and DAO-like structure
+            * Not as expensive and complex to set up and run as the Cayman islands
+        * Marshall islands
+            * Offshore perceived as “tax paradise”
+            * Functions in a DAO-like manner
+            * Can operate fully on smart contracts
+            * Simple and cheap setup
+            * Closely related to the US
+            * No taxes for non-profit
+            * Expensive if a high level of income is generated
+        * Swiss association
+            * Legit and trusted Swiss legislation
+            * Not expensive or time consuming
+            * Quick setup
+            * Flexibility in terms of non-profit/for profit
+            * Limited liability protection for members. Such protection may need to come from another entity \
+Possibility: set up a committee represented “on chain” as a GmbH (for corporate structure) under the umbrella of the association. The association makes for example charity possible.
+            * Operations and monitoring is possible “on chain”
+            * No Swiss national needed
+* We should try to make a decision as soon as possible. If we keep postponing, it means that the treasury will operate later and later.
+* Would be good to have a specialist (blockchain specialist lawyer) to help us make a decision. Would be good to make a comparison in a table with cost for development, timeline, protection for DAO participants (weak/medium/strong), tax convenience
+* Phylo can ask Biyan to make a tailored comparison according to the needs of the IOTA community, highlight the pros and cons
+* Once we collect this info and find out how other DAOs are setup, should this be decided in a vote by the community or should the lawyer take the decision?
+    * Would be good to get an agreement in the community on this, however based on the professional recommendation from a lawyer
+    * Suggestion: Engage with a lawyer, get the recommendation agreed on by the community voters to act on behalf of them
+* Would be useful to list some bullet points/questions to get feedback from legal specialists such as Biyan
+
+**Next actions:**
+
+
+
+* Åsa to set up [document](https://docs.google.com/spreadsheets/d/1DtTY1yE44uaNi0MHt4AFPrirR2ALYAwIn2lJ4blMMRM/edit#gid=0) for questions regarding the DAO setup
+* Phylo to share spreadsheets with comparisons of different DAOs and their relevance for the treasury DAO in order to collect them in the document mentioned above
+* Phylo to ask Biyan to make a tailored comparison according to the needs of the IOTA community, highlight the pros and cons
