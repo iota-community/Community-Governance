@@ -1,0 +1,45 @@
+# **Shimmer Governance Framework Meeting 21-07-2022**
+# 
+**Discussed:**
+
+
+
+* Possibility to show voters in the poll
+    * Option to set the poll to show voters publicly. (To be tested in the test phase.) Who has voted can be seen but not their answers. Statistics of the amount of people and their respective different trust levels could be shown. 
+* ‘No’ votes
+    * Consequences if a vote gets x amount ‘no’ votes to be confirmed
+    * The proposal submitter can alter the proposal and submit it again, but with the changes
+    * The threshold of ‘yes votes should override no votes if for example there are 50 yes votes and 80 ‘no’ votes
+    * Examples should be provided. 
+    * Should be reviewed it next week
+* Amount of votes needed for a phase 2 poll to be successful
+    * 100. However, this can be tried out and changed.
+* Use of another metric for a poll to move to phase 3 (f ex percentage of average poll voters in the last x months)
+    * No other metric will be used for now, however it should be revisited after 6 months or after a certain amount of poll circles after we have tried out the framework as we have no data for now.
+* The function of phase 3 is simply an announcement post that a vote will happen in Firefly
+* Necessity for Firefly votes on proposals
+    * Not all changes would need a Firefly vote. Probation periods such as a x months period or an x amount of active polls could be used for certain metrics. Which metrics can be adjusted and which not to be discussed and defined more exactly next week.
+* Exclusion metric ph 1 -> ph2
+    * 50 votes/likes. Still to be kept open as we are in the process of defining this.
+* Binary yes/no options on polls
+    * Option 1: A vote is boiled down to two options in phase 1 so it’s already done for phase 2. Disadvantage: Many votes may not get much attention until they are in phase 2 and then there is no more room for discussion.
+    * Option 2: When phase 2 starts, the poll is already prepared as it will be in Firefly. No edits should be done and the opinion should just be checked.
+    * Test poll could be used to try this out
+    * Not doing a binary vote could lead to not passing a proposal through, in this regard it would be better to do the poll run off for the community to choose what they will see
+    * Need to define a rule that ‘do nothing’ only wins if the amount of votes for A&B together is lower than ‘do nothing’ 
+* Suggestion to organize some fun events and prizes for test voting participation in order to get engagement to test the framework voting. Lotteries could be made to give out prices and people can practice and get used to the framework. 
+* Requirements on who is allowed to vote in a poll (compared to someone who is just allowed to be part of the forum)
+    * Trust level 1 required
+* Different ways of login and other social media platforms that can support
+    * Only Discord technical integration possible to use for now
+
+**Next actions:**
+
+
+
+* Guides such as steps for putting up a proposal in ph1, ph 2 and Firefly to be prepared with screenshots, video walk-through that can be added to Youtube etc.
+* Confirm the consequences of ‘no’ votes and provide examples to clarify what happens for example in situation that a certain proposal gets x amount of ‘no’ votes vs x amount of ‘yes’ votes
+* Confirm which metrics can be adjusted in a process different to the standard voting process and f ex don’t require a Firefly. Confirm probation periods (such as an x amount of months or an x amount of active polls) for certain metrics.
+* We should require that voters in a poll are visible
+* Organize action meeting on guiding principles. Suggestion: next Friday 29/7
+* Åsa and JD to meet on Monday to map the process of validating the framework
